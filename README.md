@@ -8,5 +8,9 @@ HND 1,software engineeriing,YIBS,Yaounde ,Cameroon.
 Computer literate  
 Fluent in English and French.  
 Programming: HTML,and CSS  
-
+# EXPIRIENCE.
+Social network marketing.  
+# INTERESTS.  
+Reading tech blogs.  
+Content creator.  
 
