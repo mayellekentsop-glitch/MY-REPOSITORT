@@ -1,2 +1,12 @@
 # Name: JIOGO KENTSOP MAYELLE.  
-Date:
+Date: Decemder 16, 2025.
+Contact: 650155639.
+Email address: MayelleKentsop@gmail.com.
+#EDUCATION.
+HND 1,software engineeriing,YIBS,Yaounde ,Cameroon.
+#SKILLS.
+Computer literate
+Fluent in English and French.
+Programming: HTML,and CSS
+
+
