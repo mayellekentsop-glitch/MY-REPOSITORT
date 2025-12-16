@@ -3,7 +3,7 @@ Date: Decemder 16, 2025.
 Contact: 650155639.  
 Email address: MayelleKentsop@gmail.com.  
 # My picture  
-[![my profile image]())
+[![my profile image](83484.jpg))
 # EDUCATION.  
 HND 1,software engineeriing,YIBS,Yaounde ,Cameroon.  
 # SKILLS.  
